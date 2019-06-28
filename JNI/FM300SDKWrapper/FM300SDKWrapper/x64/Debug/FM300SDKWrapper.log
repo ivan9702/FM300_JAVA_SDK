@@ -1,0 +1,2 @@
+﻿     正在建立程式庫 E:\Umedy\Java\FM300_JAVA_SDK\JNI\FM300SDKWrapper\x64\Debug\FM300SDKWrapper.lib 和物件 E:\Umedy\Java\FM300_JAVA_SDK\JNI\FM300SDKWrapper\x64\Debug\FM300SDKWrapper.exp
+LINK : fatal error LNK1561: 必須定義進入點

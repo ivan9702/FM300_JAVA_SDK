@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Java\jdk1.8.0_211\bin\javah.exe" -jni -classpath . com.startek_eng.fm300sdk.FM300SDKWrapper

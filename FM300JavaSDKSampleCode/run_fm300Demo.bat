@@ -1,0 +1,1 @@
+java -cp .;FM300SDK.jar FM300SDKDemo
